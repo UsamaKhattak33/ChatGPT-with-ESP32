@@ -1,4 +1,3 @@
-#ChatGPT with ESP32
 ESP32 series of microcontrollers have become popular among IoT enthusiasts and hobbyists due to their low power consumption, built-in WiFi and Bluetooth connectivity, and powerful processing capabilities. With the addition of ChatGPT, we can create more sophisticated and interactive applications, such as chatbots or voice assistants, that can generate human-like responses to text input.
 ChatGPT is an advanced natural language processing (NLP) model developed by OpenAI that can generate human-like responses to your provided text. It uses a machine learning algorithm, which allows it to understand the context and meaning of text and remember what was said before.
 While ChatGPT was originally designed for conversational applications such as chatbots, but integrating ChatGPT with IoT devices, can bring more sophisticated devices, that can understand and respond to natural language input.
